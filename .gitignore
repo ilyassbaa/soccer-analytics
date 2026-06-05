@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Environnements virtuels ---
+.venv/
+venv/
+env/
+
+# --- IDE / Éditeurs ---
+.vscode/
+.idea/
+.DS_Store
+
+# --- Dossiers de backup / Données sensibles ---
+Old Files/
+.env
+
+# --- Optionnel : ignorer les données brutes si elles sont trop lourdes ---
+data/

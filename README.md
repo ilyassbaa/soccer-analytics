@@ -22,7 +22,7 @@ Un système d'analyse tactique de niveau industriel basé sur l'IA pour évaluer
 ## 🛠 Installation
 1. Clonez le dépôt :
 ```bash
-git clone [https://github.com/ilyassbaa/soccer-analytics.git](https://github.com/ilyassbaa/soccer-analytics.git)
+git clone https://github.com/ilyassbaa/soccer-analytics.git
 
 ```
 

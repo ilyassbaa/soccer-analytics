@@ -16,6 +16,4 @@ env/
 # --- Dossiers de backup / Données sensibles ---
 Old Files/
 .env
-
-# --- Optionnel : ignorer les données brutes si elles sont trop lourdes ---
 data/
